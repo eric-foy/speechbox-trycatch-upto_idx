@@ -174,7 +174,7 @@ install_requires = [
 ]
 
 setup(
-    name="speechbox",
+    name="speechbox_trycatch_upto_idx",
     version="0.2.1",  # expected format is one of x.y.z.dev0, or x.y.z.rc1 or x.y.z (no to dashes, yes to dots)
     description="Speechbox",
     long_description=open("README.md", "r", encoding="utf-8").read(),
